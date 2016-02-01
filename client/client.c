@@ -1,9 +1,8 @@
 /*
 *client.c
 *Leon Meyer
-*CS3357 assignment 2
+*CS3357 assignment 3
 *Client side of the connection
-*Deals with the program arguments
 */
 #include "client.h"
 
